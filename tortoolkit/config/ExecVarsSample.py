@@ -51,7 +51,7 @@ except:
         MEGA_PASS = rootgamer@1
         ALLOW_MEGA_FOLDER = True
         ALLOW_MEGA_FILES = True
-        MAX_MEGA_LIMIT = 
+        MAX_MEGA_LIMIT = 5gb
 
         # qBittorrent Config
         # TODO add port, retry to ints
