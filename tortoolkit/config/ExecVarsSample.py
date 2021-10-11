@@ -107,7 +107,7 @@ except:
         SA_ACCOUNTS_FOLDER = "###AWS-MIRROR-ZONE-BOT v1"
         SA_ZIP_FILE = False
 
-        SA_ACCOUNT_NUMBER = 101
+        SA_ACCOUNT_NUMBER = 100
 
         UPTOBOX_TOKEN = "ddd37eea3b0fd8000c98a07123ba15696q6uk"
 
