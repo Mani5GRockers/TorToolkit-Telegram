@@ -7,7 +7,7 @@ except:
         
         API_HASH = ""
         API_ID = 0
-        BOT_TOKEN = ""
+        BOT_TOKEN = "2085575909:AAGeEHsGtABjb90VJ2m8Q29Smt8qWi_y1TM"
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
@@ -15,10 +15,10 @@ except:
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = []
-        OWNER_ID = 0
+        OWNER_ID = 1909533856
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = True
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -27,13 +27,13 @@ except:
         TG_UP_LIMIT = 1700000000
 
         # Should force evething uploaded into Document
-        FORCE_DOCUMENTS = False
+        FORCE_DOCUMENTS = True
 
         # Chracter to use as a completed progress 
-        COMPLETED_STR = "▰"
+        COMPLETED_STR = "🟩"
 
         # Chracter to use as a incomplete progress
-        REMAINING_STR = "▱"
+        REMAINING_STR = "🟨"
 
         # DB URI for access
         DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
@@ -45,13 +45,13 @@ except:
         CENTRAL_UPDATE = True
 
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
-        MEGA_UNAME = None
-        MEGA_PASS = None
+        MEGA_ENABLE = True
+        MEGA_API = "jqA3EIKQ"
+        MEGA_UNAME = rootg999@gmail.com
+        MEGA_PASS = rootgamer@1
         ALLOW_MEGA_FOLDER = True
         ALLOW_MEGA_FILES = True
-        MAX_MEGA_LIMIT = 10
+        MAX_MEGA_LIMIT = 
 
         # qBittorrent Config
         # TODO add port, retry to ints
@@ -98,18 +98,18 @@ except:
         ENABLE_BETA_YOUTUBE_DL = True
 
         # Max size direct link
-        MAX_DL_LINK_SIZE = 10
+        MAX_DL_LINK_SIZE = 20
 
         # SA Account Enable/Disable. Read the readme.md before using this feature.
-        ENABLE_SA_SUPPORT_FOR_GDRIVE = False
+        ENABLE_SA_SUPPORT_FOR_GDRIVE = True
         SA_FOLDER_ID = ""
         SA_TD_ID = ""
         SA_ACCOUNTS_FOLDER = ""
         SA_ZIP_FILE = False
 
-        SA_ACCOUNT_NUMBER = 0
+        SA_ACCOUNT_NUMBER = 101
 
-        UPTOBOX_TOKEN = ""
+        UPTOBOX_TOKEN = "ddd37eea3b0fd8000c98a07123ba15696q6uk"
 
         USE_RAR_SPLIT = False
 
@@ -117,10 +117,10 @@ except:
         DEF_RCLONE_DRIVE = ""
 
         # Max size of a playlist that is allowed (Number of videos)
-        MAX_YTPLAYLIST_SIZE = 20
+        MAX_YTPLAYLIST_SIZE = 100
         
         # Max size of the torrent allowed
-        MAX_TORRENT_SIZE = 10
+        MAX_TORRENT_SIZE = 20
 
         # Set this to your bot username if you want to add the username of your bot at the end of the commands like
         # /leech@TorToolkitBot so the value will be @TorToolkitBot
