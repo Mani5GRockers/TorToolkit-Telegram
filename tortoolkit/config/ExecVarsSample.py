@@ -5,26 +5,26 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
+        API_HASH = "c3938398e16d852d6dd2728010adc67e"
+        API_ID = 7295027
         BOT_TOKEN = "2085575909:AAGeEHsGtABjb90VJ2m8Q29Smt8qWi_y1TM"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "https://awsultrabot.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [-1001522829507,-1001290201765,-1001534004319,-1001530013795,-351960915]
         OWNER_ID = 1909533856
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = True
+        GD_INDEX_URL = https://aws.cmd-server.workers.dev/0:
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
 
         # Telegram Upload Limit (in bytes)
-        TG_UP_LIMIT = 1700000000
+        TG_UP_LIMIT = 109900000000
 
         # Should force evething uploaded into Document
         FORCE_DOCUMENTS = True
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "🟨"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = ""
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
@@ -102,9 +102,9 @@ except:
 
         # SA Account Enable/Disable. Read the readme.md before using this feature.
         ENABLE_SA_SUPPORT_FOR_GDRIVE = True
-        SA_FOLDER_ID = ""
-        SA_TD_ID = ""
-        SA_ACCOUNTS_FOLDER = ""
+        SA_FOLDER_ID = "0ABoOyit4qjaaUk9PVA"
+        SA_TD_ID = "0ABoOyit4qjaaUk9PVA"
+        SA_ACCOUNTS_FOLDER = "###AWS-MIRROR-ZONE-BOT v1"
         SA_ZIP_FILE = False
 
         SA_ACCOUNT_NUMBER = 101
