@@ -18,7 +18,7 @@ except:
         OWNER_ID = 1909533856
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = https://aws.cmd-server.workers.dev/0:
+        GD_INDEX_URL = True
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
